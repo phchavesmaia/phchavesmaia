@@ -9,7 +9,7 @@ My research agenda focuses on spatial economics. In specific, I work on the impl
 * Environmental Economics
 
 ## Packages and Models 📦
-I mostly work using Python and Julia. It follows an overview of the packages and models I have either made or reproduced and that may proove useful to others!
+I mostly work using Python and Julia. It follows an overview of the packages and models I have either made or reproduced and that may prove useful to others!
 
 #### Data work
 |Project | Language | Notes| Status |
