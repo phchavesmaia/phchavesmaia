@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Pedro H. Chaves Maia, and I work as a researcher at the [Institute for Mobility and Social Development](https://imdsbrasil.org/en/home-en/) and as a professor at the [EPGE Brazilian School of Economics and Finance](https://epge.fgv.br/en) in Brazil.
+My name is Pedro H. Chaves Maia, and I work as a researcher at the [Institute for Mobility and Social Development](https://imdsbrasil.org/en/home-en/) and as a lecturer at the [EPGE Brazilian School of Economics and Finance](https://epge.fgv.br/en).
 
 ## Research Interests 🔭
 My research agenda focuses on spatial economics. In specific, I work on the implications of urban accessibility and resilience for economic growth and the welfare of city residents. I leverage big data and GIS applications to assess spatially disaggregated infrastructure effects. 
