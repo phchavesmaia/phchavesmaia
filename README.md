@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Pedro H. Chaves Maia and I work as a researcher at the [Institute for Mobility and Social Development](https://imdsbrasil.org/en/home-en/) and as an adjunct professor at the [EPGE Brazilian School of Economics and Finance](https://epge.fgv.br/en) in Brazil
+My name is Pedro H. Chaves Maia, and I work as a researcher at the [Institute for Mobility and Social Development](https://imdsbrasil.org/en/home-en/) and as a professor at the [EPGE Brazilian School of Economics and Finance](https://epge.fgv.br/en) in Brazil.
 
 ## Research Interests 🔭
 My research agenda focuses on spatial economics. In specific, I work on the implications of urban accessibility and resilience for economic growth and the welfare of city residents. I leverage big data and GIS applications to assess spatially disaggregated infrastructure effects. 
@@ -14,7 +14,7 @@ I mostly work using Python and Julia. It follows an overview of the packages and
 #### Data work
 |Project | Language | Notes| Status |
 |-|-|-|-|
-|[df-compress](https://github.com/phchavesmaia/df-compress)| Python | A python package to compress pandas dataframes akin to Stata's `compress` command | Testing |
+|[df-compress](https://github.com/phchavesmaia/df-compress)| Python | A Python package to compress pandas dataframes akin to Stata's `compress` command | Testing |
 
 #### Spatial and Economic Modeling
 |Model | Language | Notes| Status |
