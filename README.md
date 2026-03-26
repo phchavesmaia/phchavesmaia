@@ -21,7 +21,7 @@ I mostly work using Python and Julia. It follows an overview of the packages and
 |-|-|-|-|
 |[Redding and Rossi-Hansberg (2017)](https://github.com/phchavesmaia/QSE-models/tree/main/models/redding_rossihansberg-2017)| Julia | Replicates Redding and Rossi-Hansberg (2017) implementation of the Helpman (1998) model in Julia | Completed |
 |[Monte, Redding and Rossi-Hansberg (2018)](https://github.com/phchavesmaia/QSE-models/tree/main/models/monte_etal-2018)| Julia | Replicates Seidel and Wickerath (2020) implementation of the Monte, Redding, and Rossi-Hansberg (2018) model in Julia | Completed |
-|[Ahfeldt et al. (2015)](https://github.com/phchavesmaia/QSE-models/tree/main/models/ahfeldt_etal-2015)| Julia | Replicates the canonical QSE model from Ahlfeldt et al. (2015) in Julia | Ongoing |
+|[Ahfeldt et al. (2015)](https://github.com/phchavesmaia/QSE-models/tree/main/models/ahfeldt_etal-2015)| Julia | Replicates the canonical QSE model from Ahlfeldt et al. (2015) in Julia | Completed |
 
 ## You can find me at 😄
 [<img src="https://www.iconsdb.com/icons/download/color/2E3949/geography-32.png">](https://sites.google.com/view/phchavesmaia/)
