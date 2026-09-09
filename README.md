@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Pedro H. Chaves Maia, and I work as an Assistant Professor at Londrina State University (UEL).
+My name is Pedro H. Chaves Maia, and I work as an Assistant Professor at Londrina State University (UEL). I am also a member and active contributor of the [JuliaEarth](https://github.com/JuliaEarth) project.
 
 ## Research Interests 🔭
 My research agenda focuses on spatial economics. In specific, I work on the implications of urban accessibility and resilience for economic growth and the welfare of city residents. I leverage big data and GIS applications to assess spatially disaggregated infrastructure effects. 
