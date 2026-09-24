@@ -15,6 +15,7 @@ I mostly work using Python and Julia. It follows an overview of the packages and
 |Project | Language | Notes| Status |
 |-|-|-|-|
 |[df-compress](https://github.com/phchavesmaia/df-compress)| Python | A Python package to compress pandas dataframes akin to Stata's `compress` command | Testing |
+|[CensoBR.jl](https://github.com/phchavesmaia/CensoBR.jl)| Julia | Downloads, processes, and efficiently accesses Brazilian Population Census microdata from IBGE | Testing |
 
 #### Spatial and Economic Modeling
 |Model | Language | Notes| Status |
